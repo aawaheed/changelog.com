@@ -10,7 +10,7 @@
     "cookies-js": "^1.2.3",
     "countup.js": "^2.0.4",
     "glightbox": "^3.0.9",
-    "handlebars": "^4.5.3",
+    "handlebars": "^4.7.9",
     "intersection-observer": "^0.12.0",
     "jquery": "^3.4.1",
     "normalize.css": "^8.0.0",
@@ -44,7 +44,7 @@
     "sass": "^1.58.3",
     "sass-loader": "^12.1.0",
     "terser-webpack-plugin": "^5.1.1",
-    "webpack": "^5.34.0",
+    "webpack": "^5.104.1",
     "webpack-cli": "^5.0.0",
     "webpack-merge": "^5.0.9"
   },
